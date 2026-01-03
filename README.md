@@ -125,5 +125,4 @@ BlockDocsChat System integrates a blockchain-based chat application and an IPFS-
 
 AUTHOR
 
-Developed by Gemini James
-
+Developed by Gemini G
